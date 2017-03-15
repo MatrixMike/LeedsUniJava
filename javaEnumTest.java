@@ -39,6 +39,10 @@ public class javaEnumTest {
         sixthDay.tellItLikeItIs();
         javaEnumTest seventhDay = new javaEnumTest(Day.SUNDAY);
         seventhDay.tellItLikeItIs();
+        
+        for (Day D : Day.values()) {
+			System.out.println(D);
+		}
     }
 }
 //public 
