@@ -6,3 +6,5 @@ can 'see' into code and execute parts without doing the whole package project th
 
 Remember to do javadoc ... -private [ this works well with *.java in place of ... ]
 
+adding package statement requires that the source code by placed in a folder with the same name as the package.
+
