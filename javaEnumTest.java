@@ -1,4 +1,4 @@
-package enumTest;
+//package enumTest;
 
 public class javaEnumTest {
     Day day;
