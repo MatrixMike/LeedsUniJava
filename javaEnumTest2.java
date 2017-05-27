@@ -1,9 +1,9 @@
 //package enumTest;
 
-public class javaEnumTest {
+public class javaEnumTest2 {
     Day day;
     
-    public javaEnumTest(Day day) {
+    public javaEnumTest2(Day day) {
         this.day = day;
     }
     
