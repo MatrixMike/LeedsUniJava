@@ -29,17 +29,17 @@ public class javaEnumTest2 {
     }
     
     public static void main(String[] args) {
-        javaEnumTest firstDay = new javaEnumTest(Day.MONDAY);
+        javaEnumTest2 firstDay = new javaEnumTest2(Day.MONDAY);
         firstDay.tellItLikeItIs();
-                javaEnumTest first2Day = new javaEnumTest(Day.TUESDAY);
+                javaEnumTest2 first2Day = new javaEnumTest2(Day.TUESDAY);
         first2Day.tellItLikeItIs();
-        javaEnumTest thirdDay = new javaEnumTest(Day.WEDNESDAY);
+        javaEnumTest2 thirdDay = new javaEnumTest2(Day.WEDNESDAY);
         thirdDay.tellItLikeItIs();
-        javaEnumTest fifthDay = new javaEnumTest(Day.FRIDAY);
+        javaEnumTest2 fifthDay = new javaEnumTest2(Day.FRIDAY);
         fifthDay.tellItLikeItIs();
-        javaEnumTest sixthDay = new javaEnumTest(Day.SATURDAY);
+        javaEnumTest2 sixthDay = new javaEnumTest2(Day.SATURDAY);
         sixthDay.tellItLikeItIs();
-        javaEnumTest seventhDay = new javaEnumTest(Day.SUNDAY);
+        javaEnumTest2 seventhDay = new javaEnumTest2(Day.SUNDAY);
         seventhDay.tellItLikeItIs();
         
         for (Day D : Day.values()) {
