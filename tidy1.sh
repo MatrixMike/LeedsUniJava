@@ -1,3 +1,6 @@
+#!/bin/bash
+# Mon 30 Apr 2018 07:03:38 AEST 
+
 rm *.html
 rm *.class
 rm *.js
